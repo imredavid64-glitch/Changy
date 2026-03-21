@@ -1,0 +1,11 @@
+{
+  "id": "2ebacf24cab04e998ced235bbbe2fee1",
+  "title": "New notebook",
+  "cells": [
+    {
+      "id": "760ec1e772b74f40bf6b05abd3a5b1fe",
+      "language": "sql",
+      "content": "select 1 as hello;"
+    }
+  ]
+}

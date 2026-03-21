@@ -1,0 +1,11 @@
+{
+  "name": "job-1",
+  "kind": "llm-finetune",
+  "dataset_id": null,
+  "experiment_id": null,
+  "provider": "openai",
+  "config": {},
+  "status": "queued",
+  "logs": [],
+  "id": "7e9e6236dc2f4bb4a1a0dc800c959588"
+}

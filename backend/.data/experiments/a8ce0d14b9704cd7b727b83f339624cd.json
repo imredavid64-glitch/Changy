@@ -1,0 +1,10 @@
+{
+  "name": "exp-1",
+  "dataset_id": null,
+  "framework": "sklearn",
+  "task_type": "classification",
+  "params": {},
+  "metrics": {},
+  "status": "created",
+  "id": "a8ce0d14b9704cd7b727b83f339624cd"
+}
