@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 
-[Link to the website here!]([url](https://changy-website-f63iuzkh6-imredavid64-glitchs-projects.vercel.app/))
+Link to the website here!
+[https://changy-website-f63iuzkh6-imredavid64-glitchs-projects.vercel.app/](url)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
